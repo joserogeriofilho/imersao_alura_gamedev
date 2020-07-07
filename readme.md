@@ -3,6 +3,8 @@
 # Imersão Gamedev Alura
 Projeto desenvolvido durante a semana de Imersão em Gamedev da [Alura Cursos](https://www.alura.com.br). O projeto foi desenvolvido com base na biblioteca [p5.js](https://p5js.org/) e se propõe a ser um jogo completo contando com sprites, trilha sonora e detecção de colisão de partículas.
 
+Esse projeto foi organizado e apresentado pela [Juliana Negreiros](https://twitter.com/juunegreiros), [Guilherme Lima](https://twitter.com/guilhermebzlima) e pelo [Paulo Silveira](https://twitter.com/paulo_caelum).
+
 ### Tecnologias
 * JavaScript
 * p5.js
