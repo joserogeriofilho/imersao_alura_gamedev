@@ -16,7 +16,7 @@ Basta acessar o index.html a partir de um servidor web em sua máquina. Uma dica
 Obs.: caso encontre problemas ao executar o comando `serve` no Windows, tente fazê-lo a partir de um terminal Git Bash.
 
 ### Live Demo
-[https://editor.p5js.org/joserogeriofilho/present/Rtdz4x_cs](https://editor.p5js.org/joserogeriofilho/present/Rtdz4x_cs)
+[https://joserogeriofilho.github.io/imersao_alura_gamedev/](https://joserogeriofilho.github.io/imersao_alura_gamedev/)
 
 ### Minhas Redes
 * [Linkedin](https://www.linkedin.com/in/joserogeriofilho/)
