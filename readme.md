@@ -15,6 +15,9 @@ Basta acessar o index.html a partir de um servidor web em sua máquina. Uma dica
 
 Obs.: caso encontre problemas ao executar o comando `serve` no Windows, tente fazê-lo a partir de um terminal Git Bash.
 
+### Como Jogar
+Ao iniciar o jogo, pressione `SETA PARA CIMA` no seu teclado para fazer a bruxinha Hipsta pular seus inimigos acumulando pontos a medida que progrede no cenário. Caso os inimigos te acertem 5 vezes (o número de vidas descrito pelos corações no canto superior esquerda da tela), o jogo acaba. A bruxinha é capaz do lendário PULO DUPLO!
+
 ### Live Demo
 [https://joserogeriofilho.github.io/imersao_alura_gamedev/](https://joserogeriofilho.github.io/imersao_alura_gamedev/)
 
